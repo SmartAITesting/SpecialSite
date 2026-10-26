@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fdeccf"/><stop offset="1" stop-color="#f3a6a0"/></linearGradient></defs>
+  <rect width="1000" height="1000" fill="url(#g)"/>
+  <path d="M500 760 C230 580 160 430 160 330 C160 230 235 170 325 170 C410 170 470 215 500 280 C530 215 590 170 675 170 C765 170 840 230 840 330 C840 430 770 580 500 760Z" fill="#fff" opacity=".55"/>
+  <text x="500" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-weight="800" font-size="64" fill="#a81f3d">PHOTO 6</text>
+  <text x="500" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="44" fill="#a81f3d">REPLACE ME</text>
+  <text x="500" y="880" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" fill="#7c505a">assets/images/photo-6.svg (edit path in content.js)</text>
+</svg>
